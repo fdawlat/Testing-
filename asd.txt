@@ -1,0 +1,2 @@
+learning merging in git
+we need to learning how to copy only small change

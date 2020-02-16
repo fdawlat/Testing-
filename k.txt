@@ -2,8 +2,12 @@ learning mergin
 we can merge a specifie id of change to anotehr branch
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 merging
 =======
 >>>>>>> ff313bd...  change to k.txt
 =======
 >>>>>>> ff313bd...  change to k.txt
+=======
+merging
+>>>>>>> child
