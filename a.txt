@@ -1,3 +1,4 @@
 learing more commands in git
 learning branching
 We learning branching
+learing stashing
